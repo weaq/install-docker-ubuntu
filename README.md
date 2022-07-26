@@ -6,4 +6,5 @@ curl -sSL https://raw.githubusercontent.com/weaq/install-docker-ubuntu/main/dock
 ```
 # permission denied
 $ sudo usermod -aG docker {username}
+
 $ newgrp docker
